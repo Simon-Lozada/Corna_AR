@@ -30,11 +30,6 @@
  - __seaborn__
 ### Data:
  __link of the data used in this project:__`https://drive.google.com/file/d/1-Tv9PmquSLEHX3MvFzJvFySAlCIE7z1w/view?usp=sharing`
-
- You need to configure the search path of the data where you have it stored in the variable: 
- - "df"
- You will see something like this: 
- - `df2 = pd.read_csv("/home/monky/Descargas/ciencia_datos/Corna_AR/Data_ar/Covid19Casos.csv", error_bad_lines = False)`
 ## Information sources:
  The information used in this project was obtained from the national public database. You can visit the page here:
  - `https://www.datos.gob.ar/`
