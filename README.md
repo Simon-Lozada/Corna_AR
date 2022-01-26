@@ -1,4 +1,4 @@
-# Corna_AR
+# Corona_AR
  a simple analysis of geographic data from the project.In this project, the following things are done:
  - *Clear the Data*
  - *Create with the true cases*
